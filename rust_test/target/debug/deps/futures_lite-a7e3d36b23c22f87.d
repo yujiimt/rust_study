@@ -1,0 +1,11 @@
+/Users/imutayuji/programming/Rust/rust_test/target/debug/deps/futures_lite-a7e3d36b23c22f87.rmeta: /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.11.3/src/lib.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.11.3/src/future.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.11.3/src/prelude.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.11.3/src/stream.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.11.3/src/io.rs
+
+/Users/imutayuji/programming/Rust/rust_test/target/debug/deps/libfutures_lite-a7e3d36b23c22f87.rlib: /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.11.3/src/lib.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.11.3/src/future.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.11.3/src/prelude.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.11.3/src/stream.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.11.3/src/io.rs
+
+/Users/imutayuji/programming/Rust/rust_test/target/debug/deps/futures_lite-a7e3d36b23c22f87.d: /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.11.3/src/lib.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.11.3/src/future.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.11.3/src/prelude.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.11.3/src/stream.rs /Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.11.3/src/io.rs
+
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.11.3/src/lib.rs:
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.11.3/src/future.rs:
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.11.3/src/prelude.rs:
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.11.3/src/stream.rs:
+/Users/imutayuji/.cargo/registry/src/github.com-1ecc6299db9ec823/futures-lite-1.11.3/src/io.rs:
